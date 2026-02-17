@@ -4,7 +4,7 @@ This file serves as a catalog of all scripts in the repository.
 
 ## 📊 Statistics
 
-- Total Scripts: 0
+- Total Scripts: 1
 - Last Updated: 2026-02-17
 
 ## 📂 Scripts by Category
@@ -25,7 +25,12 @@ This file serves as a catalog of all scripts in the repository.
 *No scripts yet*
 
 ### Examples (`examples/`)
-*No scripts yet*
+
+#### Hello World Example
+- **File**: `examples/hello-world.lua`
+- **Description**: A simple example script demonstrating basic structure and best practices
+- **Added**: 2026-02-17
+- **Version**: 1.0
 
 ---
 
