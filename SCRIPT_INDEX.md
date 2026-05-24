@@ -4,13 +4,19 @@ This file serves as a catalog of all scripts in the repository.
 
 ## 📊 Statistics
 
-- Total Scripts: 1
-- Last Updated: 2026-02-17
+- Total Scripts: 2
+- Last Updated: 2026-05-24
 
 ## 📂 Scripts by Category
 
 ### Exploits (`scripts/exploits/`)
-*No scripts yet*
+
+#### Raycast Silent Aim
+- **File**: `scripts/exploits/raycast-silent-aim.lua`
+- **Description**: Advanced silent aim using raycast technology with 4 adjustable aggression modes (Low, Medium, High, Rage)
+- **Added**: 2026-05-24
+- **Version**: 1.0
+- **Features**: FOV circle, team check, visibility check, target prioritization, prediction, customizable keybinds
 
 ### Utilities (`scripts/utilities/`)
 *No scripts yet*
